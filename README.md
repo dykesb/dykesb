@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I teach applied statistical methods and statistical computing @ GVSU.
-My current research involves integrating data and statistical literacy into K-12 history and social studies classes.
+My current research involves empowering K-12 history and social studies teachers to integrate data and statistical literacy into their classes.
