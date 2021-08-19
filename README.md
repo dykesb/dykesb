@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I teach applied statistical methods and statistical computing @ GVSU.
+My current research involves integrating data and statistical literacy into K-12 history and social studies classes.
